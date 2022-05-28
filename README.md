@@ -35,7 +35,7 @@
 ### Spotify Playing 🎧
 
 <p align="center">
-  <a href="https://open.spotify.com/user/omnitenebris" target="_blank"><img src="https://open.spotify.com/track/66h3xcrTooMC9AxV8g0Y75?si=E9n7e_BxQ_SqZl0KzH2F1Q&utm_source=copy-link" alt="Spotify Now Playing" width="350"/></a>
+  <a href="https://open.spotify.com/user/31nuzemgd72h4llo3dnl2pshegeu?si=qHWmVIfBQhy2KyH0dJgQ2Q&utm_source=copy-link" target="_blank"><img src="https://now-playing-on-spotify.vercel.app/api/spotify" alt="Spotify Now Playing" width="350"/></a>
 </p>
 
 ------
