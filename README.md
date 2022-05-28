@@ -6,7 +6,7 @@
 <p align="center">
 
 - 👤 My name is xychaann
-- 💌 I am 18 years old 
+- 💌 I am 16 years old 
 - 👨‍💻 I am not programmer
 
 </p>
