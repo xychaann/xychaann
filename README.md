@@ -46,7 +46,7 @@
 <p align="center"><a href="https://github.com/xychaann"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xychaann&theme=radical&layout=compact"></a></p> 
 
 ### Repo Stats 🔭
-![github card](https://github-readme-stats.vercel.app/api/pin/?username=xychaann&repo=Android-Login-New-Mod&theme=dark)
+![github card](https://github-readme-stats.vercel.app/api/pin/?username=xychaann&repo=XyChaann-Md-01&theme=dark)
 
 <details>
     <summary>&#127942 <b>GitHub Awards</b></summary><br/>
