@@ -27,7 +27,7 @@
 
 ### @thuychaang
 <p align="center">
-  <img src="https://github.com/hyoungditraa/thuychaang/blob/master/thuychaang.gif" />
+  <img src="https://github.com/xychaann/xychaann/blob/master/thuychaang.gif" />
 </p>
 
 ------
