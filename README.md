@@ -39,7 +39,7 @@
 
 ------
 
-![Snake animation](https://github.com/XyChaann/XyChaann/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/xychaann/xychaann/blob/output/github-contribution-grid-snake.svg)
 </div>
 
 ------
