@@ -37,7 +37,7 @@
   <img src="https://github.com/xychaann/xychaann/blob/master/thuychaang.gif" />
 </p>
 
-  ![Snake animation](https://github.com/xychaann/xychaann/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/ELLEN2121/ELLEN2121/blob/output/github-contribution-grid-snake.svg)
  
 </div>
 
