@@ -38,10 +38,6 @@
 </p>
 
 
-![Snake animation](https://github.com/xychaann/xychaann/blob/output/github-contribution-grid-snake.svg)
-</div>
-
-
 ### Github Stats 🚀
 
 <p align="center"><a href="https://github.com/xychaann"><img src="https://github-readme-stats.vercel.app/api?username=xychaann&show_icons=true&theme=radical"></a></p>
