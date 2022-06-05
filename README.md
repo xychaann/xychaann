@@ -1,4 +1,11 @@
-<h1 align="center">Selamat Datang!!<img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="40px" alt=""><br></h1>
+<p align="center">
+    <a href="https://chat.whatsapp.com/GikyZutq2lc7ajrz5RZtex">
+        <img
+            src="https://readme-typing-svg.herokuapp.com?size=15&width=280&lines=Welcome+To+Github+XyChaann"
+            alt="XyChann`"
+        />
+    </a>
+</p>
 <p align="center">
   <img src="https://github.com/xychaann.png" />
 </p>
@@ -46,7 +53,7 @@
 <p align="center"><a href="https://github.com/xychaann"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xychaann&theme=radical&layout=compact"></a></p> 
 
 ### Repo Stats 🔭
-![github card](https://github-readme-stats.vercel.app/api/pin/?username=xychaann&repo=XyChaann-Md-01&theme=dark)
+![github card](https://github-readme-stats.vercel.app/api/pin/?username=xychaann&repo=Elaina-Md&theme=dark)
 
 <details>
     <summary>&#127942 <b>GitHub Awards</b></summary><br/>
