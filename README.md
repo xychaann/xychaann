@@ -53,7 +53,7 @@
 ### Repo Stats XyChaann 🔭
 
 
-❏ *Repo JavaScript*
+❏ ```Repo JavaScript```
 ![github card](https://github-readme-stats.vercel.app/api/pin/?username=xychaann&repo=Elaina-Md&theme=dark)
 
 
