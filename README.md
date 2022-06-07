@@ -51,9 +51,11 @@
 <p align="center"><a href="https://github.com/xychaann"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xychaann&theme=radical&layout=compact"></a></p> 
 
 ### Repo Stats XyChaann 🔭
+
+❏ Repo JavaScript
 ![github card](https://github-readme-stats.vercel.app/api/pin/?username=xychaann&repo=Elaina-Md&theme=dark)
 
-```ts
+❏ Repo Makefile
 ![github card](https://github-readme-stats.vercel.app/api/pin/?username=xychaann&repo=Android-Login-PSTeam-Java&theme=dark)
 ![github card](https://github-readme-stats.vercel.app/api/pin/?username=xychaann&repo=Android-Login-DarkTeam-Java&theme=dark)
 
