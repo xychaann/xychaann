@@ -50,8 +50,14 @@
 <p align="center"><a href="https://github.com/xychaann"><img src="https://github-readme-stats.vercel.app/api?username=xychaann&show_icons=true&theme=radical"></a></p>
 <p align="center"><a href="https://github.com/xychaann"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xychaann&theme=radical&layout=compact"></a></p> 
 
-### Repo Stats 🔭
+### Repo Stats JavaScript 🔭
 ![github card](https://github-readme-stats.vercel.app/api/pin/?username=xychaann&repo=Elaina-Md&theme=dark)
+
+### Repo Stats Makefile 🔭
+![github card](https://github-readme-stats.vercel.app/api/pin/?username=xychaann&repo=Android-Login-PSTeam-Java&theme=dark)
+![github card](https://github-readme-stats.vercel.app/api/pin/?username=xychaann&repo=Android-Login-DarkTeam-Java&theme=dark)
+
+
 
 <details>
     <summary>&#127942 <b>GitHub Awards</b></summary><br/>
