@@ -56,6 +56,9 @@
 ❏  ```Repo JavaScript```
 ![github card](https://github-readme-stats.vercel.app/api/pin/?username=xychaann&repo=Elaina-Md&theme=dark)
 
+❏  ```Repo Java```
+![github card](https://github-readme-stats.vercel.app/api/pin/?username=xychaann&repo=Android-Login-Gods-Team-Java&theme=dark)
+
 
 ❏  ```Repo Makefile```
 ![github card](https://github-readme-stats.vercel.app/api/pin/?username=xychaann&repo=Android-Login-PSTeam-Java&theme=dark)
